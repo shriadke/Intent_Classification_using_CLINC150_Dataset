@@ -1,0 +1,9 @@
+python==3.6.5
+tensorflow==1.13.1
+keras==2.3.1
+numpy
+matplotlib
+scikit-learn
+nltk
+pandas
+xgboost
